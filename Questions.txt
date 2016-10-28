@@ -1,0 +1,12 @@
+
+1.       Merge 2 arrays of integers into one
+2.       Write an algorithm to sort a string of numbers.
+3.       Write an algorithm to reverse the string of numbers.
+4.       Create a function that can pick out Fibonacci numbers and reject non-Fibonacci numbers.
+5.       Given a string, for example ABC, find the rank of the string among all its alphabetical permutations.
+6.       What are balanced trees? Their time complexities 
+7.       When to choose balanced tree vs HashMap > time complexities 
+8.       Preorder a tree in iterative and recursive fashion
+9.       Data Structures (Arrays, Linkedlists, Self-Balancing trees, HashMaps, Trees, Big O notation) concepts
+10.    Warm up coding (Inorder traversal of a binary tree (recursive))
+11.    Inorder traversal of a binary tree (Iterative)
